@@ -1,0 +1,8 @@
+{
+  "project": "ABB Korea Customer Hub",
+  "version": "1.0.0",
+  "type": "static-web-mvp",
+  "entry": "index.html",
+  "deployment": "GitHub Pages",
+  "updated": "2026-06-16"
+}
